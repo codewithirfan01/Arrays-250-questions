@@ -483,8 +483,8 @@ g++ 01_array_traversal.cpp -o solution
 
 ## 📬 Connect With Me
 
-- 💼 LinkedIn: [your-linkedin-url]
-- 🐙 GitHub: [your-github-url]
+- 💼 LinkedIn: [https://www.linkedin.com/in/irfan-khan-a22b163b2/]
+- 🐙 GitHub: [https://github.com/codewithirfan01]
 
 ---
 
