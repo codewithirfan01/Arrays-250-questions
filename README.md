@@ -87,7 +87,7 @@ int main() {
 | # | Problem | Difficulty | Status |
 |---|---------|------------|--------|
 | 01 | Print Array Elements | 🟢 Easy | ☑ |
-| 02 | Sum of All Elements | 🟢 Easy | ☐ |
+| 02 | Sum of All Elements | 🟢 Easy | ☑ |
 | 03 | Average of Array | 🟢 Easy | ☐ |
 | 04 | Find Maximum Element | 🟢 Easy | ☐ |
 | 05 | Find Minimum Element | 🟢 Easy | ☐ |
