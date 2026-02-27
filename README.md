@@ -15,8 +15,8 @@ I'm a **2nd semester BSCS student** solving 250 C++ array problems — from abso
 
 ## 📊 Progress
 
-![Progress](https://img.shields.io/badge/Solved-1%20%2F%20250-blue?style=for-the-badge)
-![Easy](https://img.shields.io/badge/Easy-1-green?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Solved-2%20%2F%20250-blue?style=for-the-badge)
+![Easy](https://img.shields.io/badge/Easy-2-green?style=for-the-badge)
 ![Medium](https://img.shields.io/badge/Medium-0-yellow?style=for-the-badge)
 ![Hard](https://img.shields.io/badge/Hard-0-red?style=for-the-badge)
 
