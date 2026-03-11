@@ -15,8 +15,8 @@ I'm a **2nd semester BSCS student** solving 250 C++ array problems — from abso
 
 ## 📊 Progress
 
-![Progress](https://img.shields.io/badge/Solved-6%20%2F%20250-blue?style=for-the-badge)
-![Easy](https://img.shields.io/badge/Easy-6-green?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Solved-7%20%2F%20250-blue?style=for-the-badge)
+![Easy](https://img.shields.io/badge/Easy-7-green?style=for-the-badge)
 ![Medium](https://img.shields.io/badge/Medium-0-yellow?style=for-the-badge)
 ![Hard](https://img.shields.io/badge/Hard-0-red?style=for-the-badge)
 
@@ -93,7 +93,7 @@ int main() {
 | 05 | Find Minimum Element | 🟢 Easy | ☑ |
 | 06 | Count Even and Odd Numbers | 🟢 Easy | ☑ |
 | 07 | Reverse Print Without Reversing | 🟢 Easy | ☐ |
-| 08 | Copy Array to Another | 🟢 Easy | ☐ |
+| 08 | Copy Array to Another | 🟢 Easy | ☑ |
 | 09 | Sum of Elements at Even Indices | 🟢 Easy | ☐ |
 | 10 | Count Elements Greater Than X | 🟢 Easy | ☐ |
 | 11 | Print Positive and Negative Separately | 🟢 Easy | ☐ |

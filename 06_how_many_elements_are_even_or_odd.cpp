@@ -14,4 +14,5 @@ int main(){
 	}
 	cout<<"Even Number : "<<evenNumber<<endl;
 	cout<<"Odd Number : "<<oddNumber<<endl;
+	return 0;
 }
